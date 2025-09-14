@@ -1,0 +1,6 @@
+pyautogen~=0.10.0
+python-dotenv~=1.1.1
+autogen~=0.9.9
+streamlit~=1.49.1
+yfinance~=0.2.65
+openai
